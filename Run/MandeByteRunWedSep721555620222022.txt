@@ -1,0 +1,14 @@
+Mandelbyte run of :Wed Sep  7 21:55:56 2022
+
+
+FRAMES_INFO
+resolution: 1920x1080
+zoom:1
+duration: 1
+framerate: 1
+
+RENDER_INFO
+rendering mode: CUDA
+cached: 1
+
+time to complete: 2.817000
